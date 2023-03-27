@@ -38,7 +38,7 @@ Once you submit you can see the other scores on the list:
 
 ![Highscores](./assets/images/highscores.png)
 
-You may also clear them at this stage too:
+You may also clear them at this stage too, and click Go Back to return to the Quiz Start Screen:
 
 ![Cleared-Highscores](./assets/images/highscores-cleared.png)
 
