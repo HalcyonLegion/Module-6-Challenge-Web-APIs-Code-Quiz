@@ -1,3 +1,8 @@
+
+//My array of questions, ideas to iterate on this and make it better - use a random loop to go through the array so the order is different each time, have an external program write the questions and answers so it's like a true test.
+
+//The Array has 3 components - title, choices and answer which are accessed in other places.
+
 const questions = [
     {
       title: "Inside which HTML element do we put the JavaScript?",
