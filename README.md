@@ -21,7 +21,6 @@ Upon first loading the Quiz it will appear like this this. Timer is set to 0 and
 
 ![Landing](./assets/images/landing-page.png)
 
-
  To start things off click the "Start Quiz" button, this will start the timer and grab the first question title as well as the potential answers:
 
 ![Quiz-Start](./assets/images/quiz-start.png)
