@@ -11,7 +11,7 @@ The App runs in the browser and allows the user to save thier high score. Unfort
 The quiz is timed and there's a score as well as dynamic visual and audio feedback.
 
 ## Installation
-Please visit this URL to see how the Application looks now: https://halcyonlegion.github.io/Module-6-Web-APIs-Code-Quiz/
+Please visit this URL to see how the Application looks now: https://halcyonlegion.github.io/Module-6-Challenge-Web-APIs-Code-Quiz/
 
 ## Usage
 
